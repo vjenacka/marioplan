@@ -1,0 +1,1 @@
+The Net Ninja fullstack app with React Redux client side and Firebase Firestore database, Firebase Auth and Cloud Functions on the backend.
